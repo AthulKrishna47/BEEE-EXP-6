@@ -27,6 +27,10 @@ I. Connect the multimeter at the output of kit..<br>
 
 <img width="1350" height="812" alt="Screenshot 2025-12-12 110241" src="https://github.com/user-attachments/assets/96c10d7a-4e93-4e37-9b7e-e395fb17011d" />
 
+# CALCULATION:
+![WhatsApp Image 2025-12-16 at 3 32 06 PM](https://github.com/user-attachments/assets/6a3095f4-c967-4033-ab8e-0ad91ed939c9)
+
+
 # PRECAUTION: -
 1. The values on the multimeter should be carefully noted.
 2. The core should be set to a maximum value of 20mm.
